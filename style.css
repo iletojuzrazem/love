@@ -4,6 +4,7 @@ body{
     font-family: "Garamond";
     color:white;
     background-color: #000004;
+    overflow:hidden;
 }
 .licznik{
     width:100vw;
